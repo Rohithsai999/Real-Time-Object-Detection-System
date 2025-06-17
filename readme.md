@@ -2,7 +2,6 @@
 A computer vision application developed using OpenCV that performs real-time object detection and classification from webcam/video stream input. The system leverages classical techniques and/or pre-trained deep learning models (such as Haar Cascades, YOLO, or MobileNet-SSD) to identify and label multiple objects with bounding boxes in live video feeds.
 
 Key Features:
-
 Real-time video capture and object detection
 
 Integration with OpenCV for image processing
